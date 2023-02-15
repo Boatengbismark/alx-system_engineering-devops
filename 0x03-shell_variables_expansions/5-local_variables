@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p | grep -E '^declare -[a-zA-Z]*x'
+set
